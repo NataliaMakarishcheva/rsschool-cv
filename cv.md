@@ -4,6 +4,7 @@ Unique and responsible. I want to gain a new experience that is fundamentally di
 ### Contacts
 + phone: +380937333207
 + email:maknat1301@gmail.com
++ discord: Nata(@NataliaMakarishcheva)
 ### Education
 + V. A. Sukhomlinsky Pedagogical University, Nikolaev.
 Psychologist.
