@@ -11,3 +11,11 @@ Psychologist.
 + I have never dealt with programming, so I don’t have any skills in this area yet.
 ### Language
 + English A1
+### Code examples
+```
+function multiply(a, b){
+  return a * b  
+}
+```
+### Projects
+Will be soon...
