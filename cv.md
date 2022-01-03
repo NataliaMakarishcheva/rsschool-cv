@@ -19,4 +19,4 @@ function multiply(a, b){
 }
 ```
 ### Projects
-Will be soon...
+https://NataliaMakarishcheva.github.io/rsschool-cv/cv
